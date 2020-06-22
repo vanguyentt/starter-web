@@ -14,3 +14,6 @@ AS stated above, the main purpose is to provide simple examples for Git training
 THis is a simple web project, deployment...
 
 ## How To Contribute
+
+### Copywrite
+Git training
