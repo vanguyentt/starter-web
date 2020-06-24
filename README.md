@@ -14,6 +14,6 @@ AS stated above, the main purpose is to provide simple examples for Git training
 THis is a simple web project, deployment...
 
 ## How To Contribute
-
+PLease fork this repository and then issue pull request for review
 ### Copywrite
 Git training
